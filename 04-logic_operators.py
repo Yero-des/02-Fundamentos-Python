@@ -22,5 +22,5 @@ if not is_admin:
   print("Access denied. Admins only.")
 
 # Short Circuiting
-name = "yeromi zavala castillo"
+name = "yeromi"
 print(name and name.capitalize())
